@@ -65,3 +65,65 @@ init
 git commit -m "message"
 git config --global user.email "bianjy@naver.com
 
+git init
+git add .
+git commit -m "message"
+git config --globa user.email "bianjy@naver.com"
+git commit -m "message"
+git remote add origin "https://github.com/HaileyByun/background-generator.git"
+git push -u origin master
+git push -u origin master
+git clone https://github.com/zero-to-mastery/start-here-guidelines.git
+cd desktop
+ls
+cd ..
+cd ..
+ls
+cd c
+ls
+cd users
+ls
+cd desktop.ini 
+cd ..
+cd SPB_Data/
+cd start-here-guidelines/
+subl
+clear
+subl .
+git checkout -b test
+git status
+git diff
+clear
+git add .
+git commit -m"added my name to contributor list"
+git push origin master
+git push origin test
+git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git"
+git remote set-url origin "https://github-HaileyByun@github.com/github-username/github-repository-name.git"
+git push origin test
+git status
+subl .
+subl .
+cd start-here-guidelines/
+subl
+cd start-here-guidelines/
+subl .
+git check out -b test
+sublime .
+subl .
+did
+subl .
+git checkout -b test
+git status
+git diff
+git clone https://github.com/zero-to-mastery/start-here-guidelines.git
+cd start-here-guidelines/
+git checkout -b test
+subl
+cd start-here-guidelines/
+subl
+&
+subl&
+git checkout -b test
+git status
+git diff
