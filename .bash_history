@@ -127,3 +127,67 @@ subl&
 git checkout -b test
 git status
 git diff
+git checkout -b master
+git checkout master
+git checkout master
+git status
+git stash
+git pull origin master
+git stash pop
+git switch master
+git add
+git status
+git stash
+git pull origin master
+git checkout test
+git merge master
+git push origin test
+git fetch
+git rebase master
+git clone https://github.com/HaileyByun/background-generator.git
+git status
+cd start-here-guidelines/
+git status
+git diff
+git add .
+git commit -m"added my name to contributor list"
+git clone https://github.com/zero-to-mastery/start-here-guidelineshttps://github.com/zero-to-mastery/start-here-guidelines
+git clone https://github.com/zero-to-mastery/start-here-guidelines
+git delete start-here-guidelines/
+git --help
+fatal: destination path 'start-here-guidelines' already exists and is not an empty directory.
+ls
+git rm start-here-guidelines/
+cd ..
+git rm start-here-guidelines/
+ls
+cd SPB_Data/
+ls
+git commit -m "start-here-guidelines/"
+ls
+git rm -r --cached start-here-guidelines/
+git commit -m "Removed Folder"
+git push origin master
+ls
+git rm -r --cached <start-here-guidelines/>
+git rm -r --cached <start-here-guidelines>
+rm -r start-here-guidelines/
+rm -r start-here-guidelines/
+ls
+cd start-here-guidelines/
+ls
+cd ..
+rm -r start-here-guidelines/
+rm -r start-here-guidelines
+ls
+git clone https://github.com/HaileyByun/start-here-guidelines.git
+cd start-here-guidelines/
+subl .
+clear
+cd ..
+cd start-here-guidelines/
+subl&
+git checkout -b test
+git checkout -b test
+git status
+git diff
