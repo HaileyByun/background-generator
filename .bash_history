@@ -191,3 +191,6 @@ git checkout -b test
 git checkout -b test
 git status
 git diff
+git add .
+git  commit  -m"added my name to contributor list"
+git push origin test
